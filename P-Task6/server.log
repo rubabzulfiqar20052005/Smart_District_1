@@ -1,0 +1,8 @@
+INFO: Server started
+ERROR: Database connection failed
+CRITICAL: Database is down
+WARNING: High memory usage
+CRITICAL: Payment service failed
+CRITICAL: Database is down
+INFO: Request completed
+CRITICAL: Payment service failed

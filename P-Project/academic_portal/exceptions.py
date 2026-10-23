@@ -1,0 +1,3 @@
+
+class InvalidStudentRecord(Exception):
+    pass

@@ -1,0 +1,3 @@
+2026-10-20 17:54:24,153 - ERROR - Invalid record {'student_id': '105', 'name': 'Usman', 'marks': '110', 'late_days': '1'}: Marks must be between 0 and 100
+2026-10-20 17:54:24,159 - INFO - Academic reports generated successfully
+2026-10-20 17:54:24,160 - INFO - run_pipeline completed in 0.02 seconds
